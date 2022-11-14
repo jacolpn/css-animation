@@ -5,6 +5,7 @@ import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
 
 import { AppRoutingModule } from './app-routing.module';
 import { ListSocialMediaModule } from './list-social-media/list-social-media.module';
+import { TextRollModule } from './text-roll/text-roll.module';
 
 import { AppComponent } from './app.component';
 
@@ -16,7 +17,8 @@ import { AppComponent } from './app.component';
     BrowserModule,
     AppRoutingModule,
     FontAwesomeModule,
-    ListSocialMediaModule
+    ListSocialMediaModule,
+    TextRollModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -16,5 +16,4 @@ export class ListSocialMediaComponent {
   faLinkedIn = faLinkedin;
 
   constructor() { }
-
 }
