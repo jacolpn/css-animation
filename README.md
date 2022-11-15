@@ -11,3 +11,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## List social media
 <img width="766" alt="image" src="https://user-images.githubusercontent.com/29488845/201558526-9fb7e607-1355-41c2-8fc0-30bfc1725d0f.png">
+
+## Login animated
+<img width="749" alt="image" src="https://user-images.githubusercontent.com/29488845/201989005-e21db2e1-aa15-43e1-9e84-d1fc6147ecde.png">
