@@ -1,3 +1,4 @@
+import { LoginAnimatedModule } from './login-animated/login-animated.module';
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
@@ -18,7 +19,8 @@ import { AppComponent } from './app.component';
     AppRoutingModule,
     FontAwesomeModule,
     ListSocialMediaModule,
-    TextRollModule
+    TextRollModule,
+    LoginAnimatedModule
   ],
   providers: [],
   bootstrap: [AppComponent]
