@@ -14,3 +14,6 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## Login animated
 <img width="749" alt="image" src="https://user-images.githubusercontent.com/29488845/201989005-e21db2e1-aa15-43e1-9e84-d1fc6147ecde.png">
+
+## Bubble animated
+<img width="660" alt="image" src="https://user-images.githubusercontent.com/115036922/202052124-f6244077-65dd-43a9-a358-56d9d3a3a4bf.png">
