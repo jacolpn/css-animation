@@ -10,6 +10,7 @@ import { ListSocialMediaModule } from './list-social-media/list-social-media.mod
 import { TextRollModule } from './text-roll/text-roll.module';
 
 import { AppComponent } from './app.component';
+import { BoxShadowModule } from './box-shadow/box-shadow.module';
 
 @NgModule({
   declarations: [
@@ -22,7 +23,8 @@ import { AppComponent } from './app.component';
     ListSocialMediaModule,
     TextRollModule,
     LoginAnimatedModule,
-    BubbleAnimatedModule
+    BubbleAnimatedModule,
+    BoxShadowModule
   ],
   providers: [],
   bootstrap: [AppComponent]
