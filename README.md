@@ -19,4 +19,5 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 <img width="660" alt="image" src="https://user-images.githubusercontent.com/115036922/202052124-f6244077-65dd-43a9-a358-56d9d3a3a4bf.png">
 
 ## Box shadow
-<img width="632" alt="image" src="https://user-images.githubusercontent.com/115036922/230541015-a0b2e90e-6797-4e77-b0dc-6dc92d70dca8.png">
+<img width="834" alt="image" src="https://user-images.githubusercontent.com/115036922/230541049-1697746d-f5a7-4904-83f1-9313ce056496.png">
+
