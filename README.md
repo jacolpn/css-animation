@@ -24,3 +24,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Burguer menu
 <img width="502" alt="image" src="https://user-images.githubusercontent.com/115036922/230707236-b596811a-e010-4ab5-a15c-dd953c755f9c.png">
 <img width="381" alt="image" src="https://user-images.githubusercontent.com/115036922/230707244-eb8f7833-6b8b-43dc-84be-0bf924c0b866.png">
+
+## Ribbon shape
+<img width="732" alt="image" src="https://user-images.githubusercontent.com/115036922/230707954-29266b81-bbda-40ee-a00f-c69570742f58.png">
+
