@@ -12,6 +12,7 @@ import { TextRollModule } from './text-roll/text-roll.module';
 import { AppComponent } from './app.component';
 import { BoxShadowModule } from './box-shadow/box-shadow.module';
 import { BurgerMenuModule } from './burger-menu/burger-menu.module';
+import { RibbonShapeModule } from './ribbon-shape/ribbon-shape.module';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { BurgerMenuModule } from './burger-menu/burger-menu.module';
     LoginAnimatedModule,
     BubbleAnimatedModule,
     BoxShadowModule,
-    BurgerMenuModule
+    BurgerMenuModule,
+    RibbonShapeModule
   ],
   providers: [],
   bootstrap: [AppComponent]
