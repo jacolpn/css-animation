@@ -13,6 +13,7 @@ import { AppComponent } from './app.component';
 import { BoxShadowModule } from './box-shadow/box-shadow.module';
 import { BurgerMenuModule } from './burger-menu/burger-menu.module';
 import { RibbonShapeModule } from './ribbon-shape/ribbon-shape.module';
+import { PopupBoxModule } from './popup-box/popup-box.module';
 
 @NgModule({
   declarations: [
@@ -28,7 +29,8 @@ import { RibbonShapeModule } from './ribbon-shape/ribbon-shape.module';
     BubbleAnimatedModule,
     BoxShadowModule,
     BurgerMenuModule,
-    RibbonShapeModule
+    RibbonShapeModule,
+    PopupBoxModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,0 +1,9 @@
+<body>
+    <div [class]="clicked ? 'container active' : 'container'">
+        <div class="content">
+            <h2>Heading...</h2>
+            <p>First paragraph...</p>
+        </div>
+        <div class="toggleBtn" (click)="clicked = !clicked"></div>
+    </div>
+</body>
