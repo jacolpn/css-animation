@@ -11,6 +11,7 @@ import { TextRollModule } from './text-roll/text-roll.module';
 
 import { AppComponent } from './app.component';
 import { BoxShadowModule } from './box-shadow/box-shadow.module';
+import { BurgerMenuModule } from './burger-menu/burger-menu.module';
 
 @NgModule({
   declarations: [
@@ -24,7 +25,8 @@ import { BoxShadowModule } from './box-shadow/box-shadow.module';
     TextRollModule,
     LoginAnimatedModule,
     BubbleAnimatedModule,
-    BoxShadowModule
+    BoxShadowModule,
+    BurgerMenuModule
   ],
   providers: [],
   bootstrap: [AppComponent]
