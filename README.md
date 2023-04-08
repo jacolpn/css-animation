@@ -28,3 +28,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 ## Ribbon shape
 <img width="732" alt="image" src="https://user-images.githubusercontent.com/115036922/230707954-29266b81-bbda-40ee-a00f-c69570742f58.png">
 
+## Popup box
+<img width="516" alt="image" src="https://user-images.githubusercontent.com/115036922/230708808-2245c0f2-c992-4ca5-87d3-a9e28694b211.png">
+<img width="769" alt="image" src="https://user-images.githubusercontent.com/115036922/230708817-9ff99a8a-da6d-45f9-a550-9ea00771c12a.png">
+
